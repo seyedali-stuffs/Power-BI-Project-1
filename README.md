@@ -14,4 +14,5 @@
 
 سعی کردم تا حد ممکن گروه مشتریان رو برای بازاریابی بهتر مشخص کنم. همچنین یه تورم سالانه هم در نظر گرفتم و درامد رو نسبت به تورم بررسی کردم و البته کلی کار دیگه که می‌تونید ببینید🤌
 
+![نمودار پاور بی ای من](https://raw.githubusercontent.com/seyedali-stuffs/Power-BI-Project-1/main/Screenshot_20260913_211710.png)
 ![نمودار پاور بی ای من](https://raw.githubusercontent.com/seyedali-stuffs/Power-BI-Project-1/main/Screenshot_20260913_211801.png)
