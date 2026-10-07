@@ -13,3 +13,5 @@
 🛠 ابزارها: Power BI, Power Query, DAX
 
 سعی کردم تا حد ممکن گروه مشتریان رو برای بازاریابی بهتر مشخص کنم. همچنین یه تورم سالانه هم در نظر گرفتم و درامد رو نسبت به تورم بررسی کردم و البته کلی کار دیگه که می‌تونید ببینید🤌
+
+https://raw.githubusercontent.com/seyedali-stuffs/Power-BI-Project-1/main/Screenshot_20260913_211801.png
